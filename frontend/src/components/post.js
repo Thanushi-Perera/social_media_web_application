@@ -21,7 +21,7 @@ const Post = () => {
       <MDBCol md="2">
         <div className="logo">
           <img
-            src={require("../images/surgy1.png")}
+            src={require("../images/surgehubLogo.jpg")}
             alt="image"
             style={{ width: "75%", marginLeft: "30px", marginTop: "30px" }}
           />
